@@ -1,13 +1,13 @@
 ---
 title: "Finding your financial balance"
-date: 2019-05-17T08:46:06-04:00
+date: 2019-05-17T08:56:06-04:00
 draft: false
 featured_image: "/balance.jpg"
 ---
 
 ![Balance](/balance.jpg)
 
-Not all debt is a bad thing, but you have to find your financial balance.  When you have controlled debt like a mortgage you can find balance in your monthly budget.  When you have uncontrolled debt like a credit card then you’ll never find your financial balance.
+Not all debt is bad debt, but you have to find your financial balance.  When you have controlled debt like a mortgage you can find balance in your monthly budget.  When you have uncontrolled debt like a credit card you’ll never find your financial balance.
 
 So how can you tell the difference between controlled and uncontrolled debt?  It all comes down to interest.
 

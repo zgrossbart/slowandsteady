@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Slow and Steady</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2019 08:49:06 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 08:56:06 -0400</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finding your financial balance</title>
+      <link>/posts/balance/</link>
+      <pubDate>Fri, 17 May 2019 08:56:06 -0400</pubDate>
+      
+      <guid>/posts/balance/</guid>
+      <description>Not all debt is bad debt, but you have to find your financial balance. When you have controlled debt like a mortgage you can find balance in your monthly budget. When you have uncontrolled debt like a credit card you’ll never find your financial balance.
+So how can you tell the difference between controlled and uncontrolled debt? It all comes down to interest.
+With a mortgage you’re buying back a little bit of your home every month.</description>
+    </item>
     
     <item>
       <title>Three guaranteed ways to make money in the stock market</title>
@@ -41,17 +52,6 @@ There are three simple steps:
       <guid>/posts/saving/</guid>
       <description>We all know that saving money is important. You need to keep something back for a rainy day and for retirement. But how much money should you save?
 This is a tricky question because there’s no simple right answer. Unforeseen expenses are going to happen. Your sink will explode, your washing machine will melt down, and you’re going to back your car into that dumpster at the end of your parking lot.</description>
-    </item>
-    
-    <item>
-      <title>Finding your financial balance</title>
-      <link>/posts/balance/</link>
-      <pubDate>Fri, 17 May 2019 08:46:06 -0400</pubDate>
-      
-      <guid>/posts/balance/</guid>
-      <description>Not all debt is a bad thing, but you have to find your financial balance. When you have controlled debt like a mortgage you can find balance in your monthly budget. When you have uncontrolled debt like a credit card then you’ll never find your financial balance.
-So how can you tell the difference between controlled and uncontrolled debt? It all comes down to interest.
-With a mortgage you’re buying back a little bit of your home every month.</description>
     </item>
     
     <item>
