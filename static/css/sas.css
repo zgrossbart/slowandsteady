@@ -1,0 +1,24 @@
+footer.bg-black a {
+  display: none;
+}
+
+footer.bg-black {
+	height: 5rem;
+}
+
+.bg-black {
+  background-color: #17662C;
+}
+
+.light-silver {
+  color: white;
+}
+
+.athelas {
+  font-family: avenir next,avenir,sans-serif;
+  font-weight: normal;
+}
+
+.pb6-l {
+  padding-bottom: 0;
+}
